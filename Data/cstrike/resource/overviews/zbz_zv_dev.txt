@@ -1,0 +1,9 @@
+// HLTV overview description file for zbz_zv_dev.bsp
+
+"zbz_zv_dev"
+{
+	"material"	"overviews/zbz_zv_dev"	// texture file
+	"pos_x"		"-1619"	// X coordinate,
+	"pos_y"		"2326"	// Y coordinate,
+	"scale"		"4.00" 	// and used scale used when taking the screenshot
+}

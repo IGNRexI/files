@@ -1,0 +1,7 @@
+"ze_backrooms_p3"
+{
+	"material"	"overviews/ze_backrooms_p3"
+	"pos_x"		"-17024"
+	"pos_y"		"16896"
+	"scale"		"33.00" 
+}

@@ -1,0 +1,14 @@
+// HLTV overview description file for cs_assault_classic.bsp
+"cs_assault_classic"
+{
+	"material"	"overviews/cs_assault_classic"	// texture file
+	"pos_x"		"-2107"	// X coordinate, 
+	"pos_y"		"2321"      // Y coordinate, 
+	"scale"		"4.0"          // and used scale used when taking the screenshot 
+
+	// loading screen icons and positions
+	"Hostage1_x"	"0.56"
+	"Hostage1_y"	"0.83"
+	"Hostage2_x"	"0.48"
+	"Hostage2_y"	"0.64"
+}

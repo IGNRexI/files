@@ -1,0 +1,12 @@
+// HLTV overview description file for zd_italy.bsp
+
+"zs_italy"
+{
+	"material"	"overviews/zs_italy"	// texture file
+	"pos_x"		"-3479"	// upper left world coordinate
+	"pos_y"		"4277"
+	"scale"		"7.1" 
+	"rotate"	"1"
+//	"zoom"		"1.5"
+}
+

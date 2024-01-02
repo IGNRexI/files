@@ -1,0 +1,11 @@
+"mansion"
+{
+	"material"	"overviews/mansion"	// texture file
+	"pos_x"		" -3251"	// upper left world coordinate
+	"pos_y"		"2212"
+	"scale"		" 5.00," 
+}
+
+
+//
+Overview: sca

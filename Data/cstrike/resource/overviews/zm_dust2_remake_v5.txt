@@ -1,0 +1,8 @@
+"zm_dust2_remake_v5"
+{
+	"material"	"overviews/zm_dust2_remake_v5"	// texture file
+	"pos_x"		" -3986"	// upper left world coordinate
+	"pos_y"		"3218"
+	"scale"		" 7.00," 
+}
+

@@ -1,0 +1,11 @@
+// HLTV overview description file for ze_offliner_v2b.bsp
+
+"ze_offliner_v2b"
+{
+	"material"	"overviews/ze_offliner_v2b"	// texture file
+	"pos_x"		"-11654"	// X coordinate,
+	"pos_y"		"14277"	// Y coordinate,
+	"scale"		"27.00" 	// and used scale used when taking the screenshot
+	"rotate"	"0"	// map was rotated by 90 degress in image editor
+	"zoom"		"1.3"	// optimal zoom factor if map is shown in full size
+}

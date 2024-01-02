@@ -1,0 +1,7 @@
+"ze_luciddreams_css4"
+{
+ "material" "overviews/ze_luciddreams_css4"
+ "pos_x"  "-24106"
+ "pos_y"  "27719"
+ "scale"  "40.00"
+}

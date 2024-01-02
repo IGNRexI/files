@@ -1,0 +1,6 @@
+"ze_surf_vortex_v1_9s"
+{
+	"pos_x"  "-10833"
+	"pos_y"  "16430"
+	"scale"  "30.00"
+}

@@ -1,0 +1,8 @@
+// HLTV overview description file for ze_immortal_flame_v1.bsp
+"ze_immortal_flame_v1"
+{
+	"material" "overviews/ze_immortal_flame_v1"
+	"pos_x" "-11786"
+	"pos_y" "14800"
+	"scale" "25.5"
+}

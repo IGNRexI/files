@@ -1,0 +1,9 @@
+// HLTV overview description file for tetrad_tube.bsp
+
+"tetrad_tube"
+{
+	"material"	"overviews/tetrad_tube"	// texture file
+	"pos_x"		"-2137"	// X coordinate,
+	"pos_y"		"2153"	// Y coordinate,
+	"scale"		"4.00" 	// and used scale used when taking the screenshot
+}

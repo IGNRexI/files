@@ -1,0 +1,9 @@
+"ze_FFXII_Westersand_v8zeta1"
+{
+	"material" "overviews/ze_ffxii_westersand_v8zeta1"
+	"pos_x" "-12057"
+	"pos_y" "12293"
+	"scale" "27"
+	"rotate" "0"
+	"zoom" "1.3"
+}

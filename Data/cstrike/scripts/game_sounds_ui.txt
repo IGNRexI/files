@@ -1,0 +1,1974 @@
+//////// Outgame UI///////////////
+
+BGM.HSEnding
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_HSEnding.mp3
+}
+
+BGM.HSEnding2
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_HSEnding2.mp3
+}
+
+BGM.TDMBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins.mp3
+}
+
+BGM.TDMBegins_sa01
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_sa01.mp3
+}
+
+BGM.TDMBegins_Cbble
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_Cbble.mp3
+}
+
+BGM.TDMBegins_Killhouse
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_Killhouse.mp3
+}
+
+BGM.TDMBegins_highland
+{
+	channel		CHAN_BGM 
+	volume		"0.6"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_highland.mp3
+}
+
+BGM.TDMBegins_cargoship
+{
+	channel		CHAN_BGM 
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_cargoship.mp3
+}
+
+BGM.TDMBegins_cornerwork
+{
+	channel		CHAN_BGM 
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_TDMBegins_cornerwork.mp3
+}
+
+BGM.MbossBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*map/mboss/MH_begins.mp3
+}
+
+BGM.SuddenDeath
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_SuddenDeath.mp3
+}
+
+BGM.TDMEnding
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	rndwave		
+	{
+			"wave"	"#@*music/BGM_TDMEnding.mp3"
+			"wave"	"#@*music/BGM_TDMEnding2.mp3"
+	}
+}
+
+
+BGM.StealthBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_StealthBegins.mp3
+}
+
+BGM.StealthRoundWin
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_StealthRoundWin.mp3
+}
+
+BGM.StealthRoundLose
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_StealthRoundLose.mp3
+}
+
+BGM.DuelBegins
+{
+	channel		CHAN_BGM 
+	volume		"0.6"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_DuelBegins.mp3
+}
+
+BGM.XmasBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_XmasBegins.mp3
+
+}
+
+BGM.XmasEnding
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_XmasEnding.mp3
+
+}
+
+BGM.Cutscene01
+{
+	channel		CHAN_BGM 
+	volume		"0.7"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_cutscene01.mp3
+
+}
+
+BGM.RocketBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RocketBegins.mp3
+}
+
+BGM.RocketPlay
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RocketPlay.mp3
+}
+
+BGM.MuseumPlay
+{
+	channel		CHAN_BGM 
+	volume		"0.8"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_MuseumPlay.mp3
+}
+
+
+BGM.CatchPlay
+{
+	channel		CHAN_BGM 
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_CatchPlay.mp3
+}
+
+Nexon.Logo
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		Nexon.mp3
+}
+
+Ui.ErrorPopup
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		buttons/weapon_cant_buy.wav
+}
+
+Ui.ButtonClick
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/SciFi_Button_Click.wav
+}
+
+Ui.ButtonRelease
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/SciFi_Button_Release.wav
+}
+
+Ui.Mouseover
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/SciFi_Button_Rollover.wav
+}
+
+Ui.Slidein
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/SciFi_Slide_In.wav
+}
+
+BGM.Lobby
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	rndwave		
+	{
+			"wave"	"#@*lobby/Christmas.mp3"
+	}
+}
+
+BGM.RoundBegins
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundBegins.mp3
+}
+
+BGM.RoundBegins_catch
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundBegins_catch.mp3
+}
+
+BGM.RoundBegins_Cbble
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundBegins_Cbble.mp3
+}
+
+BGM.RoundBegins_highland
+{
+	channel		CHAN_BGM 
+	volume		"0.5"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundBegins_highland.mp3
+}
+
+BGM.RoundWin
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundWin.mp3
+}
+
+BGM.RoundWin2
+//especially for duel mod
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundWin_duel.mp3
+}
+
+
+BGM.RoundLose
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundLose.mp3
+}
+
+BGM.RoundLose2
+//especially for duel mod
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_RoundLose_duel.mp3
+}
+
+BGM.Queue
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_Queue.mp3
+}
+
+BGM.Result
+{
+	channel		CHAN_BGM 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_Result.mp3
+}
+
+BGM.Shop
+{
+	channel		CHAN_BGM 
+	volume		"0.2"
+	soundlevel	SNDLVL_NONE
+	rndwave		
+	{
+			"wave"	"#@*music/BGM_Shop.mp3"
+			"wave"	"#@*music/BGM_Shop2.mp3"
+			"wave"	"#@*music/BGM_Shop3.mp3"
+			"wave"	"#@*music/BGM_Shop4.mp3"
+			"wave"	"#@*music/BGM_Shop5.mp3"
+	}
+}
+
+BGM.ZS.BattleBegin
+//ZS battle begin signal
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BattleBegin.mp3
+}
+
+BGM.ZS.Battle
+//ZS normal battle loop
+{
+	channel		CHAN_BGM
+	volume		"0.7"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Battle.mp3
+}
+
+BGM.ZS.Battle02
+//ZS normal battle loop
+{
+	channel		CHAN_BGM
+	volume		"0.7"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Battle02.mp3
+}
+
+BGM.ZS.Battle02_Small
+
+{
+	channel		CHAN_BGM
+	volume		"0.7"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Battle02_Small.mp3
+}
+
+BGM.ZS.BattleBoss01
+//ZS Boss battle former phase
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_BC_06.mp3
+}
+
+BGM.ZS.BattleBoss02
+//ZS Boss battle latter phase
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BossBattle.mp3
+}
+
+
+BGM.ZS.BattleBoss03
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BossBattle02.mp3
+}
+
+BGM.ZS.BattleBoss04
+
+{
+	channel		CHAN_BGM
+	volume		"0.5"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BossBattle02.mp3
+}
+
+BGM.ZS.BattleEnds
+//ZS battle ends signal
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BattleEnds.mp3
+}
+
+BGM.ZS.Ambient01
+//ZS ambient bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Ambient01.mp3
+}
+
+BGM.ZS.Intro
+//ZS intro bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Normal01.mp3
+}
+
+BGM.ZS.Normal
+//ZS normal state bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Normal02.mp3
+}
+
+BGM.ZS.BossEvent
+//ZS normal state bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_BossEvent.mp3
+}
+
+BGM.ZS.Waiting
+//Match making bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZS_Waiting.mp3
+}
+
+
+BGM.ZC.01
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_01.mp3
+}
+
+BGM.ZC.02
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_02.mp3
+}
+
+BGM.ZC.03
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_03.mp3
+}
+
+BGM.ZC.04
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_04.mp3
+}
+
+BGM.ZC.WARN01
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_WARN01.mp3
+}
+
+BGM.ZC.WARN02
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/ZombieCrush/BGM_ZC_WARN02.mp3
+}
+
+BGM.MatchBegins
+//Match making bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_MatchBegins.mp3
+}
+
+BGM.PT
+//Match making bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_PT.mp3
+}
+
+BGM.Playzone
+//Playzone bgm
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_Playzone.mp3
+}
+
+GunBall.BGM.PlayBall
+
+{
+	channel		CHAN_BGM
+	volume		"0.7"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_GB_PlayBall.mp3
+}
+
+GunBall.BGM.PlayBall02
+
+{
+	channel		CHAN_BGM
+	volume		"1"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_GB_PlayBall02.mp3
+}
+
+GunBall.BGM.GoalCeremony
+
+{
+	channel		CHAN_BGM
+	volume		"0.6"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_GB_GoalCeremony.mp3
+}
+
+GunBall.BGM.CountDown
+
+{
+	channel		CHAN_BGM
+	volume		"0.5"
+	soundlevel	SNDLVL_NONE
+	wave		#@*music/BGM_GB_CountDown.mp3
+}
+
+Ui.HitNotify
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/Hit_Notify_Heavy.wav
+}
+
+Ui.HeadshotNotify
+{
+	channel		CHAN_AUTO
+	volume		1
+	pitch		100
+	soundlevel	SNDLVL_NONE
+	wave		UI/Hit_Notify_Headshot.wav
+}
+
+NPC.HitNotify
+{
+	channel		CHAN_AUTO
+	volume		0.3
+	soundlevel	SNDLVL_70dB
+	wave		UI/Hit_Notify_Heavy.wav
+}
+
+NPC.HeadshotNotify
+{
+	channel		CHAN_AUTO
+	volume		0.3
+	soundlevel	SNDLVL_70dB
+	wave		UI/Hit_Notify_Headshot.wav
+}
+
+Ui.Quest.start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/achievement_earned.wav
+}
+
+Ui.Quest.success
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/quest_success.wav
+}
+
+Ui.Bridge.GameEnd
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/Bridge_Game_End.wav
+}
+
+Ui.BigCity.Intro.Logo
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/BigCity_Intro_Logo.mp3
+}
+
+ChoiJiYun.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_choi/ui_change_weapon_choi_1.mp3"
+		"wave"		"UI/UI_choi/ui_change_weapon_choi_2.mp3"
+	}
+}
+
+ChoiJiYun.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_choi/ui_select_characters_choi_1.mp3"
+		"wave"		"UI/UI_choi/ui_select_characters_choi_2.mp3"
+	}
+}
+
+ChoiJiYun.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_choi/ui_wating_count_end_choi_1.mp3"
+		"wave"		"UI/UI_choi/ui_wating_count_end_choi_2.mp3"
+	}
+}
+
+Yuri.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/Ui_yuri/ui_change_weapon_yuri_1.mp3"
+		"wave"		"UI/Ui_yuri/ui_change_weapon_yuri_2.mp3"
+	}
+}
+
+Yuri.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/Ui_yuri/ui_select_characters_yuri_1.mp3"
+		"wave"		"UI/Ui_yuri/ui_select_characters_yuri_2.mp3"
+	}
+}
+
+Yuri.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/Ui_yuri/ui_wating_count_end_yuri_1.mp3"
+		"wave"		"UI/Ui_yuri/ui_wating_count_end_yuri_2.mp3"
+	}
+}
+
+Linclon.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_linclon/ui_change_weapon_linclon_1.mp3"
+		"wave"		"UI/UI_linclon/ui_change_weapon_linclon_2.mp3"
+	}
+}
+
+Linclon.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_linclon/ui_select_characters_linclon_1.mp3"
+		"wave"		"UI/UI_linclon/ui_select_characters_linclon_2.mp3"
+		"wave"		"UI/UI_linclon/ui_select_characters_linclon_3.mp3"
+	}
+}
+
+Linclon.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_linclon/ui_wating_count_end_linclon_1.mp3"
+		"wave"		"UI/UI_linclon/ui_wating_count_end_linclon_2.mp3"
+	}
+}
+
+Mao.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_mao/ui_change_weapon_mao_1.mp3"
+		"wave"		"UI/UI_mao/ui_change_weapon_mao_2.mp3"
+	}
+}
+
+Mao.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_mao/ui_select_characters_mao_1.mp3"
+		"wave"		"UI/UI_mao/ui_select_characters_mao_2.mp3"
+	}
+}
+
+Mao.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_mao/ui_wating_count_end_mao_1.mp3"
+		"wave"		"UI/UI_mao/ui_wating_count_end_mao_2.mp3"
+	}
+}
+
+Marie.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_marie/ui_change_weapon_Marie_1.mp3"
+		"wave"		"UI/UI_marie/ui_change_weapon_Marie_2.mp3"
+		"wave"		"UI/UI_marie/ui_change_weapon_Marie_3.mp3"
+	}
+}
+
+Marie.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_marie/ui_select_characters_Marie_1.mp3"
+		"wave"		"UI/UI_marie/ui_select_characters_Marie_2.mp3"
+	}
+}
+
+Marie.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_marie/ui_wating_count_end_Marie.mp3"
+	}
+}
+
+Natalie.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_natalie/ui_change_weapon_Natalie_1.mp3"
+		"wave"		"UI/UI_natalie/ui_change_weapon_Natalie_2.mp3"
+	}
+}
+
+Natalie.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_natalie/ui_select_characters_Natalie_1.mp3"
+		"wave"		"UI/UI_natalie/ui_select_characters_Natalie_2.mp3"
+	}
+}
+
+Natalie.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_natalie/ui_wating_count_end_Natalie.mp3"
+	}
+}
+
+Emma.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_emma/ui_change_weapon_Emma_1.mp3"
+		"wave"		"UI/UI_emma/ui_change_weapon_Emma_2.mp3"
+		"wave"		"UI/UI_emma/ui_change_weapon_Emma_3.mp3"
+	}
+}
+
+Emma.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_emma/ui_select_characters_Emma_1.mp3"
+		"wave"		"UI/UI_emma/ui_select_characters_Emma_2.mp3"
+	}
+}
+
+Emma.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_emma/ui_wating_count_end_Emma_1.mp3"
+		"wave"		"UI/UI_emma/ui_wating_count_end_Emma_2.mp3"
+	}
+}
+
+Tammy.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_tammy/ui_change_weapon_Tammy_1.mp3"
+		"wave"		"UI/UI_tammy/ui_change_weapon_Tammy_2.mp3"
+	}
+}
+
+Tammy.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_tammy/ui_select_characters_Tammy_1.mp3"
+		"wave"		"UI/UI_tammy/ui_select_characters_Tammy_2.mp3"
+	}
+}
+
+Tammy.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_tammy/ui_wating_count_end_Tammy_1.mp3"
+		"wave"		"UI/UI_tammy/ui_wating_count_end_Tammy_2.mp3"
+	}
+}
+
+Carrie.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_carrie/ui_change_weapon_carrie_1.mp3"
+		"wave"		"UI/UI_carrie/ui_change_weapon_carrie_2.mp3"
+	}
+}
+
+Carrie.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_carrie/ui_select_characters_carrie_1.mp3"
+		"wave"		"UI/UI_carrie/ui_select_characters_carrie_2.mp3"
+	}
+}
+
+Carrie.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_carrie/ui_wating_count_end_carrie_1.mp3"
+		"wave"		"UI/UI_carrie/ui_wating_count_end_carrie_2.mp3"
+	}
+}
+
+Viper.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_viper/ui_change_weapon_viper_1.mp3"
+		"wave"		"UI/UI_viper/ui_change_weapon_viper_2.mp3"
+	}
+}
+
+Viper.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_viper/ui_select_characters_viper_1.mp3"
+		"wave"		"UI/UI_viper/ui_select_characters_viper_2.mp3"
+	}
+}
+
+Viper.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_viper/ui_wating_count_end_viper_1.mp3"
+		"wave"		"UI/UI_viper/ui_wating_count_end_viper_2.mp3"
+	}
+}
+
+Heather.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_heather/ui_change_weapon_heather_1.mp3"
+		"wave"		"UI/UI_heather/ui_change_weapon_heather_2.mp3"
+	}
+}
+
+Heather.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_heather/ui_select_characters_heather_1.mp3"
+		"wave"		"UI/UI_heather/ui_select_characters_heather_2.mp3"
+	}
+}
+
+Heather.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_heather/ui_wating_count_end_heather_1.mp3"
+		"wave"		"UI/UI_heather/ui_wating_count_end_heather_2.mp3"
+	}
+}
+
+Sonya.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_sonya/ui_change_weapon_Sonya_1.mp3"
+		"wave"		"UI/UI_sonya/ui_change_weapon_Sonya_2.mp3"
+	}
+}
+
+Sonya.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_sonya/ui_select_characters_Sonya_1.mp3"
+		"wave"		"UI/UI_sonya/ui_select_characters_Sonya_2.mp3"
+	}
+}
+
+Sonya.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_sonya/ui_wating_count_end_Sonya_1.mp3"
+		"wave"		"UI/UI_sonya/ui_wating_count_end_Sonya_2.mp3"
+	}
+}
+
+Hasan.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_hasan/ui_change_weapon_hasan_1.mp3"
+		"wave"		"UI/UI_hasan/ui_change_weapon_hasan_2.mp3"
+	}
+}
+
+Hasan.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_hasan/ui_select_characters_hasan_1.mp3"
+		"wave"		"UI/UI_hasan/ui_select_characters_hasan_2.mp3"
+	}
+}
+
+Hasan.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_hasan/ui_wating_count_end_hasan_1.mp3"
+		"wave"		"UI/UI_hasan/ui_wating_count_end_hasan_2.mp3"
+	}
+}
+
+Kwan.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_kwan/ui_change_weapon_kwan_1.mp3"
+		"wave"		"UI/UI_kwan/ui_change_weapon_kwan_2.mp3"
+	}
+}
+
+Kwan.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_kwan/ui_select_characters_kwan_1.mp3"
+		"wave"		"UI/UI_kwan/ui_select_characters_kwan_2.mp3"
+	}
+}
+
+Kwan.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_kwan/ui_wating_count_end_kwan_1.mp3"
+		"wave"		"UI/UI_kwan/ui_wating_count_end_kwan_2.mp3"
+	}
+}
+
+Miu.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_miu/ui_change_weapon_miu_1.mp3"
+		"wave"		"UI/UI_miu/ui_change_weapon_miu_2.mp3"
+	}
+}
+
+Miu.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_miu/ui_select_characters_miu_1.mp3"
+		"wave"		"UI/UI_miu/ui_select_characters_miu_2.mp3"
+	}
+}
+
+Miu.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_miu/ui_wating_count_end_miu_1.mp3"
+		"wave"		"UI/UI_miu/ui_wating_count_end_miu_2.mp3"
+	}
+}
+
+Athena.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_athena/ui_change_weapon_athena_1.mp3"
+		"wave"		"UI/UI_athena/ui_change_weapon_athena_2.mp3"
+	}
+}
+
+Athena.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_athena/ui_select_characters_athena_1.mp3"
+		"wave"		"UI/UI_athena/ui_select_characters_athena_2.mp3"
+	}
+}
+
+Athena.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_athena/ui_wating_count_end_athena_1.mp3"
+		"wave"		"UI/UI_athena/ui_wating_count_end_athena_2.mp3"
+	}
+}
+
+Victor.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_victor/ui_change_weapon_victor_1.mp3"
+		"wave"		"UI/UI_victor/ui_change_weapon_victor_2.mp3"
+	}
+}
+
+Victor.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_victor/ui_select_characters_victor_1.mp3"
+		"wave"		"UI/UI_victor/ui_select_characters_victor_2.mp3"
+	}
+}
+
+Victor.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_victor/ui_wating_count_end_victor_1.mp3"
+		"wave"		"UI/UI_victor/ui_wating_count_end_victor_2.mp3"
+	}
+}
+
+Niko.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_niko/ui_change_weapon_niko_1.mp3"
+		"wave"		"UI/UI_niko/ui_change_weapon_niko_2.mp3"
+	}
+}
+
+Niko.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_niko/ui_select_characters_niko_1.mp3"
+		"wave"		"UI/UI_niko/ui_select_characters_niko_2.mp3"
+	}
+}
+
+Niko.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_niko/ui_wating_count_end_niko_1.mp3"
+		"wave"		"UI/UI_niko/ui_wating_count_end_niko_2.mp3"
+	}
+}
+
+Helga.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_helga/ui_change_weapon_helga_1.mp3"
+		"wave"		"UI/UI_helga/ui_change_weapon_helga_2.mp3"
+	}
+}
+
+Helga.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_helga/ui_select_characters_helga_1.mp3"
+		"wave"		"UI/UI_helga/ui_select_characters_helga_2.mp3"
+	}
+}
+
+Helga.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_helga/ui_wating_count_end_helga_1.mp3"
+		"wave"		"UI/UI_helga/ui_wating_count_end_helga_2.mp3"
+	}
+}
+
+Naomi.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_naomi/ui_change_weapon_naomi_1.mp3"
+		"wave"		"UI/UI_naomi/ui_change_weapon_naomi_2.mp3"
+	}
+}
+
+Naomi.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_naomi/ui_select_characters_naomi_1.mp3"
+		"wave"		"UI/UI_naomi/ui_select_characters_naomi_2.mp3"
+	}
+}
+
+Naomi.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_naomi/ui_wating_count_end_naomi_1.mp3"
+		"wave"		"UI/UI_naomi/ui_wating_count_end_naomi_2.mp3"
+	}
+}
+
+Kenji.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Kenji/ui_change_weapon_Kenji_1.mp3"
+		"wave"		"UI/UI_Kenji/ui_change_weapon_Kenji_2.mp3"
+	}
+}
+
+Kenji.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Kenji/ui_select_characters_Kenji_1.mp3"
+		"wave"		"UI/UI_Kenji/ui_select_characters_Kenji_2.mp3"
+	}
+}
+
+Kenji.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Kenji/ui_wating_count_end_Kenji_1.mp3"
+		"wave"		"UI/UI_Kenji/ui_wating_count_end_Kenji_2.mp3"
+	}
+}
+
+Joe.WeaponSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Joe/ui_change_weapon_Joe_1.mp3"
+		"wave"		"UI/UI_Joe/ui_change_weapon_Joe_2.mp3"
+	}
+}
+
+Joe.CharacterSelect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Joe/ui_select_characters_Joe_1.mp3"
+		"wave"		"UI/UI_Joe/ui_select_characters_Joe_2.mp3"
+	}
+}
+
+Joe.GameStart
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/UI_Joe/ui_wating_count_end_Joe_1.mp3"
+		"wave"		"UI/UI_Joe/ui_wating_count_end_Joe_2.mp3"
+	}
+}
+
+Ui.Point.Rolling
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_point_rolling.wav
+}
+
+Ui.Point.Rolling.Stop
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_point_rolling_stop.wav
+}
+
+Ui.Point.Rolling.Result
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_point_result.wav
+}
+
+Ui.Wanted.Inform
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_wanted_inform.wav
+}
+
+Ui.Wanted.Arrest
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_wanted_arrest.wav
+}
+
+Ui.cut01.intro.typewriter
+{
+	channel		CHAN_AUTO
+	volume		0.5
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter01.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter02.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter03.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter04.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter05.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter06.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter07.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter08.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter09.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter10.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter11.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter12.wav"
+	}
+}
+
+Ui.cut01.intro.typewriter.flash
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter_flash01.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter_flash02.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter_flash03.wav"
+		"wave"		"UI/ui_typewriter/ui_cam_typewriter_flash04.wav"
+	}
+}
+
+Ui.Hide.Rolling
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/hide_rolling.wav
+}
+
+Ui.Hide.Space.Click
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/hide_space_click.wav
+}
+
+Ui.Hide.Rolling.Stop
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/hide_stop01.wav"
+		"wave"		"UI/hide_stop02.wav"
+		"wave"		"UI/hide_stop03.wav"
+		"wave"		"UI/hide_stop04.wav"
+	}
+}
+
+Ui.Hide.Change
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/hide_change01.wav"
+		"wave"		"UI/hide_change02.wav"
+		"wave"		"UI/hide_change03.wav"
+		"wave"		"UI/hide_change04.wav"
+	}
+}
+
+Ui.Hide.Rolling.Event
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/hide_rolling_event.wav
+}
+
+Ui.Hide.Thumb.Up
+{
+	channel		CHAN_ANNOUNCE 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@Ui/thumb_up_ui_1.wav	
+}
+
+Ui.Hide.Thumb.Up.Gold
+{
+	channel		CHAN_ANNOUNCE 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		#@Ui/thumb_up_ui_2.wav
+}
+
+Ui.Hide.Thumb.Up.Icon.Last
+{
+	channel		CHAN_STATIC 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/thumb_up_icon_last.wav	
+}
+
+Ui.Spot.Show
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/spot_mission_show.wav
+}
+
+Ui.Spot.End
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/spot_mission_end.wav
+}
+
+Ui.Spot.Close
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/spot_mission_close.wav
+}
+
+Ui.Result.In
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_result_in.wav
+}
+
+Ui.Result.Out
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/ui_result_out.wav	
+}
+
+HideMulti.Roulette.Start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	wave		UI/hidemulti_roulette_start.wav
+}
+
+HideMulti.Roulette.Repeat
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	wave		UI/hidemulti_roulette_repeat.wav
+}
+
+HideMulti.Roulette.End
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	wave		UI/hidemulti_roulette_end.wav
+}
+
+HideMulti.Assasin.Start
+{
+	channel		CHAN_ANNOUNCE 
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	wave		#@Ui/hidemulti_assasin_start.wav	
+}
+
+Halloween.Attachment.Pumpkin
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/Halloween_Attachment_Pumpkin#1.wav"
+		"wave"		"UI/Halloween_Attachment_Pumpkin#2.wav"
+	}
+}
+
+2015.Attachment.BlueSheep
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/2015Sheep#1.wav"
+		"wave"		"UI/2015Sheep#2.wav"
+		"wave"		"UI/2015Sheep#3.wav"
+	}
+}
+
+2016.Attachment.RedMonkey
+{
+	channel			CHAN_AUTO
+	volume			1
+	soundlevel	SNDLVL_NONE
+	
+	wave				UI/2016Redmonkey.wav
+}
+
+RANDOMBOX.in
+{
+	channel		CHAN_AUTO
+	volume		0.5
+	soundlevel	SNDLVL_NONE
+	wave		UI/randombox_in.wav	
+}
+
+Box.open.start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/Box_Open_Start.wav	
+}
+
+RANDOMBOX.open
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/randombox_open.wav	
+}
+
+RANDOMBOX.get
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/randombox_get.wav	
+}
+
+GACHABOX.open
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/gachabox_open.wav	
+}
+
+Ui.MatchMake.Search.Start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/matchmake_search_start.wav
+}
+
+Ui.MatchMake.Count
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/matchmake_count.wav
+}
+
+Ui.MatchMake.Connect
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/matchmake_connect.wav
+}
+
+ui.home.popup.open 
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/matchmake_home_popup_open.wav
+}
+
+Ui.Combine.Click
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/weapon_combine_click.wav
+}
+
+Ui.Combine.Start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/weapon_combine_start.wav
+}
+
+Ui.result.reward.box.start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/result_reward_start.wav
+}
+
+Ui.result.reward.box.over
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/result_reward_over.wav
+}
+
+Ui.result.reward.box.click
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/result_reward_click.wav
+}
+
+Ui.Item.Disassemble.PopUp
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/item_disassemble_popup.wav
+}
+
+Ui.Item.Disassemble.Start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/item_disassemble_start.wav
+}
+
+SkillFactory.Slot.Drag.Start
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	wave		UI/skillfactory_drag_start.wav
+}
+
+SkillFactory.Slot.Drag.End
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/skillfactory_drag_end_1.wav"
+		"wave"		"UI/skillfactory_drag_end_2.wav"
+		"wave"		"UI/skillfactory_drag_end_3.wav"
+	}
+}
+
+SkillFactory.Slot.Drag.Out
+{
+	channel			CHAN_AUTO
+	volume			1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/skillfactory_drag_out_1.wav"
+		"wave"		"UI/skillfactory_drag_out_2.wav"
+		"wave"		"UI/skillfactory_drag_out_3.wav"
+	}
+}
+
+SkillFactory.Slot.Effect.Start
+{
+	channel			CHAN_AUTO
+	volume			1
+	soundlevel	SNDLVL_NONE
+	
+	"rndwave"
+	{
+		"wave"		"UI/skillfactory_drag_slot_start.wav"
+	}
+}
+
+Chat.Notification 
+{
+	channel		CHAN_AUTO
+	volume		1
+	soundlevel	SNDLVL_NONE
+
+	wave		UI/chat_notification.wav
+}

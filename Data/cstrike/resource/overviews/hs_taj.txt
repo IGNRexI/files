@@ -1,0 +1,9 @@
+// HLTV overview description file for hs_taj.bsp
+
+"hs_taj"
+{
+	"material"	"overviews/hs_taj"	// texture file
+	"pos_x"		"-3730"	// X coordinate,
+	"pos_y"		"4785"	// Y coordinate,
+	"scale"		"7.50" 	// and used scale used when taking the screenshot
+}

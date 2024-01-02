@@ -1,0 +1,29 @@
+"ze_mist_q3"
+{
+	"material"	"overviews/ze_mist_q3"	// texture file
+	"pos_x"		"-14878"				// X coordinate
+	"pos_y"		"15532"				// Y coordinate
+	"scale"		"31.0" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"1.3"				// optimal zoom factor if map is shown in full size
+	"verticalsections"
+	{
+		"default"
+		{
+			"AltitudeMax" "15348"
+			"AltitudeMin" "12288"
+		}
+		"mid"
+		{
+			"AltitudeMax" "732"
+			"AltitudeMin" "-14276"
+		}
+		"fin"
+		{
+			"AltitudeMax" "12020"
+			"AltitudeMin" "1032"
+		}
+	}
+}
+
+//setpos 4961.981445 -340.486420 61051.796875;setang 0.000000 90.000000 0.000000

@@ -1,0 +1,7 @@
+"ze_surf_cherry_blossom_v4_1"
+{
+    "material" "overviews/ze_surf_cherry_blossom_v4_1"
+    "pos_x" "-16076"
+    "pos_y" "15862"
+    "scale" "30.00"
+}

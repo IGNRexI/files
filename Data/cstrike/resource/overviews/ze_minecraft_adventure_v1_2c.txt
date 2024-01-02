@@ -1,0 +1,8 @@
+"ze_minecraft_adventure_v1_2c"
+{
+"pos_x" "-14126"
+"pos_y" "11571"
+"scale" "26.3"
+"rotate" "0"
+"zoom" "1.3"
+}

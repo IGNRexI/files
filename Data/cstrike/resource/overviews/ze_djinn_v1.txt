@@ -1,0 +1,8 @@
+"ze_djinn_a1"
+{
+ "material" "overviews/ze_djinn_v1"
+ "pos_x"  "-12640"
+ "pos_y"  "11126"
+ "scale"  "27.00"
+}
+

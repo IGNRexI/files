@@ -1,0 +1,8 @@
+"ze_ffvii_malgo_reactor_css3"
+{
+	"pos_x"		"-7220"
+	"pos_y"		"15160"
+	"scale"		"17.5"
+	"rotate"	"0"
+	"zoom"		"1.3"
+}

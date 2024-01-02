@@ -1,0 +1,12 @@
+//Overview: scale 12.00, pos_x -11508, pos_y 5763
+//Overview: scale 13.00, pos_x -12460, pos_y 6390，实际X-100，Y+100，补充了偏移量。
+
+"ze_italy_town_v3"
+{
+	"material"	"overviews/ze_italy_town_v3"	// texture file
+	"pos_x"		"-12560"	// upper left world coordinate
+	"pos_y"		"6490"
+	"scale"		"13.00" 
+	"rotate"	"0"
+	"zoom"		"1"	
+}

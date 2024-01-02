@@ -1,0 +1,8 @@
+"ze_dreamin_v3_1_css"
+{
+	"pos_x"		"-17050"
+	"pos_y"		"16596"
+	"scale"		"33.0"
+	"rotate"	"0"
+	"zoom"		"1.3"
+}

@@ -1,0 +1,7 @@
+"frog_tube4"
+{
+	"material"	"overviews/frog_tube4"	// texture file
+	"pos_x"		"-1961"	// upper left world coordinate
+	"pos_y"		"1509"
+	"scale"		"3.00" 
+}

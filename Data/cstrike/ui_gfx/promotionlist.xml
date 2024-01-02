@@ -1,0 +1,58 @@
+<promotions>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_1.png</imgUrl>
+        <title>Promation Lobby 1</title>
+        <linkPointArray>
+            <linkPoint link="shop" id="1" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_2.png</imgUrl>
+        <title>Promation Lobby 2</title>
+        <linkPointArray>
+            <linkPoint link="inventory" id="2" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_3.png</imgUrl>
+        <title>Promation Lobby 3</title>
+        <linkPointArray>
+            <linkPoint link="campaign" id="3" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_4.png</imgUrl>
+        <title>Promation Lobby 4</title>
+        <linkPointArray>
+            <linkPoint link="todayquest" id="4" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_5.png</imgUrl>
+        <title>Promation Lobby 5</title>
+        <linkPointArray>
+            <linkPoint link="unlock" id="5" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_6.png</imgUrl>
+        <title>Promation Lobby 6</title>
+        <linkPointArray>
+            <linkPoint link="" id="6" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_7.png</imgUrl>
+        <title>Promation Lobby 7</title>
+        <linkPointArray>
+            <linkPoint link="" id="7" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+    <promotion>
+        <imgUrl>lobby/promation_lobby_8.png</imgUrl>
+        <title>Promation Lobby 8</title>
+        <linkPointArray>
+            <linkPoint link="" id="8" x="0" y="0" width="489" height="670"/>
+        </linkPointArray>
+    </promotion>
+</promotions>

@@ -1,0 +1,12 @@
+"mansion"
+{
+	"material"	"overviews/mansion"	// texture file
+	"pos_x"		" -1770"	// upper left world coordinate
+	"pos_y"		"1910"
+	"scale"		" 5.00," 
+}
+
+
+//
+os_y 1910
+Overview: scale 5.00, pos_x -1770, pos_y 1910

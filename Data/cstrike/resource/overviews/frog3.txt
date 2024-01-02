@@ -1,0 +1,9 @@
+// HLTV overview description file for frog3.bsp
+
+"frog3"
+{
+	"material"	"overviews/frog3"	// texture file
+	"pos_x"		"-2359"	// X coordinate,
+	"pos_y"		"2889"	// Y coordinate,
+	"scale"		"3.00" 	// and used scale used when taking the screenshot
+}

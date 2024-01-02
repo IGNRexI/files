@@ -1,0 +1,7 @@
+"ze_doorhug_and_solo_v6_2"
+{
+ "material" "overviews/ze_doorhug_and_solo_v6_2"
+ "pos_x"  "-12739"
+ "pos_y"  "13391"
+ "scale"  "25.00"
+}

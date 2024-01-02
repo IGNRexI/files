@@ -1,0 +1,9 @@
+// HLTV overview description file for zm_abyss2.bsp
+
+"zm_abyss2"
+{
+	"material"	"overviews/zm_abyss2"
+	"pos_x"		"-2769"
+	"pos_y"		"3356"
+	"scale"		"5.00"
+}

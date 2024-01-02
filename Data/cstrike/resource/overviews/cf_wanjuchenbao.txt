@@ -1,0 +1,11 @@
+"cs_paopaokdc"
+{
+	"material"	"overviews/cf_wanjuchenbao"	// texture file
+	"pos_x"		" -3784"	// upper left world coordinate
+	"pos_y"		"4810"
+	"scale"		" 4.00," 
+}
+
+
+//
+

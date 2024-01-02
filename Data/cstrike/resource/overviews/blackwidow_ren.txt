@@ -1,0 +1,10 @@
+"blackwidow_ren"
+{
+	"material"	"overviews/blackwidow_ren"	// texture file
+	"pos_x"		" 864"	// upper left world coordinate
+	"pos_y"		"-271"
+	"scale"		" 5.00," 
+}
+
+
+//

@@ -1,0 +1,11 @@
+"cf_transportship"
+{
+	"material"	"overviews/cf_transportship"	// texture file
+	"pos_x"		" -2363"	// upper left world coordinate
+	"pos_y"		"2751"
+	"scale"		" 5.00," 
+}
+
+
+//Overview: scale 5.00, pos_x -297, pos_y 2299
+

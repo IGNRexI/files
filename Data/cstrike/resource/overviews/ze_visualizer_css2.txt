@@ -1,0 +1,10 @@
+"ze_visualizer_css2"
+{
+ "material" "overviews/ze_visualizer_css2"
+ "pos_x"  "-16335"
+ "pos_y"  "16345"
+ "scale"  "32.00"
+ "rotate"	"0"	
+ "zoom"		"2"
+ 
+}

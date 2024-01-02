@@ -1,0 +1,9 @@
+"ze_ffvii_cosmo_canyon_v5fix"
+{
+"material" "overviews/ze_ffvii_cosmo_canyon_v5fix"
+"pos_x" "-13801"
+"pos_y" "20322"
+"scale" "25.00"
+"rotate" "0" 
+"zoom" "1.3"
+}

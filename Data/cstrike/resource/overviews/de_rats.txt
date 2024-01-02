@@ -1,0 +1,10 @@
+// HLTV overview description file for de_rats.bsp
+"de_rats"
+{
+    "material"  "overviews/de_rats"  // texture file
+    "pos_x"        "-2853"// X coordinate,
+    "pos_y"        "1354"  // Y coordinate,
+    "scale"     "4.80"   // scale used when taking the screenshot
+}
+
+

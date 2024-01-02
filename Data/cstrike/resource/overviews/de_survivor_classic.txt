@@ -1,0 +1,9 @@
+// HLTV overview description file for de_survivor_classic.bsp
+
+"de_survivor_classic"
+{
+	"material"	"overviews/de_survivor_classic"
+	"pos_x"		"-2111"
+	"pos_y"		"4446"
+	"scale"		"6"
+}
