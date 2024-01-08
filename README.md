@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository is created to host update files for the "Game" project.
+This repository is created to host update files for the "Counter-Strike Online 2- CSO2.NET Launche" project.
 
 ## Contents
 
@@ -34,7 +34,7 @@ Alternatively, you can manually download updates. Follow the steps below to manu
 [TURKISH]
 # Game Update Repository
 
-Bu depo, "Game" adlı oyun için güncelleme dosyalarını barındırmak amacıyla oluşturulmuştur.
+Bu depo, "Counter-Strike Online 2- CSO2.NET Launche" adlı oyun için güncelleme dosyalarını barındırmak amacıyla oluşturulmuştur.
 
 ## İçerik
 
