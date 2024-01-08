@@ -1,6 +1,7 @@
+[ENGLISH]
 # Game Update Repository
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This repository is created to host update files for the "Game" project.
 
@@ -28,3 +29,34 @@ Alternatively, you can manually download updates. Follow the steps below to manu
 
    ```bash
    git clone https://github.com/IGNRexI/files.git
+
+[TURKISH]
+# Game Update Repository
+
+Bu depo, "Game" adlı oyun için güncelleme dosyalarını barındırmak amacıyla oluşturulmuştur.
+
+## İçerik
+
+- [Proje Hakkında](#proje-hakkında)
+- [Kullanım](#kullanım)
+- [Lisans](#lisans)
+
+## Proje Hakkında
+
+Bu depo, "Counter-Strike Online 2- CSO2.NET Launcher" adlı oyunun güncelleme dosyalarını içermektedir. Oyunun en son sürümüne ulaşmak ve güncellemeleri indirmek için bu depoyu kullanabilirsiniz.
+
+## Kullanım
+
+### Otomatik Güncelleme
+
+Oyun içerisinde otomatik güncelleme özelliği bulunmaktadır. Oyunu başlattığınızda, güncelleme dosyaları otomatik olarak indirilecek ve oyununuz en son sürüme yükseltilecektir.
+
+### Manuel Güncelleme
+
+Alternatif olarak, güncellemeleri manuel olarak indirebilirsiniz. Aşağıdaki adımları takip ederek güncelleme dosyalarını el ile indirebilir ve uygulayabilirsiniz:
+
+1. Bu depoyu bilgisayarınıza klonlayın:
+
+   ```bash
+   git clone https://github.com/IGNRexI/files.git
+
