@@ -1,6 +1,6 @@
 [ENGLISH]
 # Game Update Repository
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=main)](https://travis-ci.org/username/repo)
+![Server Badge](serverbadge.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
