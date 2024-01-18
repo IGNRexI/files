@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository is created to host update files for the "Counter-Strike Online 2- CSO2.NET Launche" project.
+This repository is created to host update files for the "Counter-Strike Online 2- CSO2.NET Launcher" project.
 
 ## Contents
 
