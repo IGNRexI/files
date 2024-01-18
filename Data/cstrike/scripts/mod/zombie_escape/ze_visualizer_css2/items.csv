@@ -1,0 +1,13 @@
+;//神器归属队伍(2为僵尸神器,3为人类神器),神器中文名,武器targetname,按钮targetname(如没有请留空),神器的冷却时间
+Team,Name,WeaponName,ButtonName,Cooldown
+int,string,string,string,int
+3,方块,human_cube_elite,human_cube_button,60
+3,伤害,human_energyball_elites,human_energyball_button,3
+3,冰,human_freezeball_elites,human_freezeball_button,35
+3,黑洞,human_gravity_elites,human_gravity_button,50
+3,奶,human_heal_elites,human_heal_button,100
+3,护盾,human_shield_elites,human_shield_button,60
+2,伤害,zombie_energyball_knife,zombie_energyball_button,8
+2,冰,zombie_freezeball_knife,zombie_freezeball_button,50
+2,黑洞,zombie_gravity_knife,zombie_gravity_button,90
+2,奶,zombie_heal_knife,zombie_heal_button,50

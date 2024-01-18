@@ -1,0 +1,89 @@
+;//ID,原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+ID,Original,Translation,DontCount
+int,string,string,bool
+1,** BIO Materia has been found. **,"*有玩家捡起了<毒>神器, 效果: 减速僵尸并造成少量伤害*",false
+2,** BARRIER Materia has been found. **,"*有玩家捡起了<护盾>神器, 效果: 阻挡僵尸*",false
+3,** ULTIMA Materia has been found. **,"*有玩家捡起了<终极>神器, 效果: 蓄力后大范围秒杀僵尸*",false
+4,** WIND Materia has been found. **,"*有玩家捡起了<风>神器, 效果: 吹开僵尸*",false
+5,** HEAL Materia has been found. **,"*有玩家捡起了<圣光>神器, 效果: 恢复血量(3级可短暂免疫感染)*",true
+6,** ICE Materia has been found. **,"*有玩家捡起了<冰>神器, 效果: 冰冻僵尸*",false
+7,** AQUA Materia has been found. **,"*有玩家捡起了<水>神器, 效果: 推开僵尸*",false
+8,** FIRE Materia has been found. **,"*有玩家捡起了<火>神器, 效果: 燃烧僵尸*",false
+9,** ELECTRO Materia has been found. **,"*有玩家捡起了<电>神器, 效果: 减速僵尸*",false
+10,** EARTH Materia has been found. **,"*有玩家捡起了<土墙>神器, 效果: 放置墙体*",false
+11,** GRAVITY Materia has been found. **,"*有玩家捡起了<黑洞>神器, 效果: 吸住僵尸*",false
+12,** MIMIC Materia has been found. **,"*有玩家捡起了<复制>神器, 效果: 复制上一个被使用的神器*",false
+13,**A player has picked up ULTIMA materia**,"*有玩家捡起了<终极>神器, 效果: 蓄力后大范围秒杀僵尸*",false
+14,** Round failed! Zombies have reached the objective! **,"*僵尸到达了目标点, 通关失败*",false
+15,< Any last words? >,萨菲罗斯: 还有遗言吗?,false
+16,< Dodge this! >,萨菲罗斯: 躲这个试试!,false
+17,< I've been... Defeated? >,萨菲罗斯: 我竟然..会被打败...,false
+18,< Only the chosen may survive! >,萨菲罗斯: 只有天选之子才能幸存!,false
+19,< Say goodbye! >,萨菲罗斯: 准备受死吧!,false
+20,< Seems I do not have to hold back. >,萨菲罗斯: 看来我不再需要有所保留了.,false
+21,< Too late for laments! >,萨菲罗斯: 现在才悲叹就太迟了!,false
+22,< BAHAMUT CASTED FIRE >,*<巴哈姆特>使用<火>*,false
+23,< BAHAMUT CASTED ICE >,*<巴哈姆特>使用<冰>*,false
+23,< BAHAMUT CASTED ELECTRO >,"*<巴哈姆特>使用<电>, 离开地面!*",false
+23,< BAHAMUT CASTED WIND >,"*<巴哈姆特>使用<风>, 保持前进!*",false
+23,< BAHAMUT CASTED EARTH >,"*<巴哈姆特>使用<土墙>, 快打破墙体*",false
+23,< BAHAMUT CASTED GRAVITY >,"*<巴哈姆特>使用<黑洞>, 保持后退!*",false
+23,< BAHAMUT CASTED BIO >,"*<巴哈姆特>使用<毒>, 快往后退!*",false
+23,< BAHAMUT CASTED BARRIER >,"*<巴哈姆特>使用<护盾>, 快停火!!*",false
+23,< BAHAMUT CASTED AQUA >,*<巴哈姆特>使用<水>*,false
+23,< BAHAMUT CASTED ULTIMA >,"*<巴哈姆特>使用<终极>, 20秒后全人类秒杀!*",false
+23,< BAHAMUT CASTED HEAL >,*<巴哈姆特>使用<恢复>*,false
+24,< BAHAMUT MIMICS FIRE >,"*<巴哈姆特>使用<复制>, 复制了<火>*",false
+25,< BAHAMUT MIMICS ICE >,"*<巴哈姆特>使用<复制>, 复制了<冰>*",false
+26,< BAHAMUT MIMICS FIRE >,"*<巴哈姆特>使用<复制>, 复制了<火>*",false
+27,< BAHAMUT MIMICS ELECTRO >,"*<巴哈姆特>使用<复制>, 复制了<电>*",false
+28,< BAHAMUT MIMICS WIND >,"*<巴哈姆特>使用<复制>, 复制了<风>*",false
+29,< BAHAMUT MIMICS EARTH >,"*<巴哈姆特>使用<复制>, 复制了<土墙>*",false
+30,< BAHAMUT MIMICS GRAVITY >,"*<巴哈姆特>使用<复制>, 复制了<黑洞>*",false
+31,< BAHAMUT MIMICS BIO >,"*<巴哈姆特>使用<复制>, 复制了<毒>*",false
+32,< BAHAMUT MIMICS BARRIER >,"*<巴哈姆特>使用<复制>, 复制了<护盾>*",false
+33,< BAHAMUT MIMICS FAILS >,"*<巴哈姆特>使用<复制>, 但什么也没复制出来*",false
+34,< BAHAMUT MIMICS ULTIMA >,"*<巴哈姆特>使用<复制>, 复制了<终极>*",false
+35,< BAHAMUT MIMICS AQUA >,"*<巴哈姆特>使用<复制>, 复制了<水>*",false
+36,< BAHAMUT MIMICS HEAL >,"*<巴哈姆特>使用<复制>, 复制了<恢复>*",false
+37,**Map by Ma/l/go**,*地图制作: Ma/l/go*,false
+38,< WARMUP >,*热身阶段(等人)*,false
+39,< Warmup timeleft: 35 seconds >,*热身时间剩余35秒*,false
+40,< Warmup timeleft: 25 seconds >,*热身时间剩余25秒*,false
+41,< Warmup timeleft: 15 seconds >,*热身时间剩余15秒*,false
+42,< Warmup timeleft: 5 seconds >,*热身时间剩余5秒*,false
+43,< INSANE II (ZOMBIEDEN VERSION) >,*当前关卡: 第一关(僵尸乐园/ZombiEden)*,false
+44,< INSANE II (HELLZ VERSION) >,*当前关卡: 第二关(Hellz)*,false
+45,< INSANE III (RMZS VERSION) >,*当前关卡: 第三关(RMZS)*,false
+46,< INSANE IV (ZEDDYS VERSION) >,*当前关卡: 第四关(ZeddY)*,false
+47,< INSANE V (COSMO VERSION) >,*当前关卡: 第五关(Cosmo)*,false
+48,< INSANE VI (GGEASY VERSION) >,*当前关卡: 第六关(GGEASY)*,false
+49,< Hold reactor door for 20 seconds >,"*防守20秒, 等待大门开启*",false
+50,**Hold this area for 20 seconds!**,*防守15秒*,false
+51,< Hold double doors for 10 seconds >,"*防守10秒, 等待大门开启*",false
+52,< Hold blast doors for 30 seconds >,"*防守30秒, 等待大门开启*",false
+53,< Hold final door for 30 seconds >,*防守最后的30秒*,false
+54,< All materias are disabled!! >,*神器受爆炸影响失效了..我们只能靠自己了!*,false
+55,< RUN TO THE TELEPORT! >,*快进入传送门!*,false
+56,< Sephiroth can use katana by press LMB >,*<萨菲罗斯>可使用左键进行攻击*,false
+57,**You have failed**,*通关失败*,false
+58,< You have beaten INSANE II (ZOMBIEDEN VERSION)!! Congratulations !! >,*第一关(僵尸乐园/ZombiEden)通关成功*,false
+59,< You have beaten INSANE II (HELLZ VERSION)!! Congratulations !! >,*第二关(Hellz)通关成功*,false
+60,< You have beaten INSANE III (RMZS VERSION)!! Congratulations !! >,*第三关(RMZS)通关成功*,false
+61,< You have beaten INSANE IV (ZEDDYS VERSION)!! Congratulations !! >,*第四关(ZeddY)通关成功*,false
+62,< You have beaten INSANE V (COSMO VERSION)!! Congratulations !! >,*第五关(Cosmo)通关成功*,false
+63,< You have beaten INSANE VI (GGEASY VERSION)!! Congratulations !! >,*第六关(GGEASY)通关成功*,false
+64,< WARNING! REACTOR CORE UNSTABLE! >,*警告! 反应堆核心不稳定!*,false
+65,< It's the most cancer version. If you can't win just use admin room! >,"*此关卡较为蛋疼, 请做好心理准备*",false
+66,< WARNING! MAIN DOOR IS LOCKED. USE SIDE VENTS TO EXIT! >,*大门坏了! 快从两边的管道离开!*,false
+67,< Warning! Run to the bunker! >,*尽快前往避难所!*,false
+68,**Hold this area for 25 seconds!**,*防守25秒*,false
+69,**Hold this area for 15 seconds!**,*防守15秒*,false
+70,< Hold this area for 20 seconds! >,*防守20秒*,false
+71,< Warning! Four lasers will fly from boss side! >,*注意! <巴哈姆特>正在蓄力额外的刀波攻击*,false
+72,< Warning! lasers incoming from boss side! >,*注意! 刀波攻击即将来袭!*,false
+73,< We need to find another way. Hold this area for 10 seconds! >,*防守10秒*,false
+74,< Hold this area for 25 seconds! >,*防守25秒*,false
+75,**Ifrit is defeated. Get back in the elevator**,"*<伊芙利特>已被击败, 回到电梯处*",false
+76,< The gates will open in 30 seconds >,"*防守30秒, 等待大门开启*",false
+77,< Wait 5 more seconds >,*再防守5秒*,false

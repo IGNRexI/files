@@ -1,0 +1,5 @@
+;//神器归属队伍(2为僵尸神器,3为人类神器),神器中文名,武器targetname,按钮targetname(如没有请留空),神器的冷却时间
+Team,Name,WeaponName,ButtonName,Cooldown
+int,string,string,string,int
+3,海绵,houba_zbran,tlacitko_houba,52
+3,老鼠夹,pasticka_zbran,tlacitko_pasticka,42

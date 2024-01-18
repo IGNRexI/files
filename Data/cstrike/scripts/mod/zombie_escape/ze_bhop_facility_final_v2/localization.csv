@@ -1,0 +1,44 @@
+;//ID,原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+ID,Original,Translation,DontCount
+int,string,string,bool
+1,** Teleport has been picked **,"*有玩家捡起了<传送>神器, 效果: 传送僵尸回初始传送点*",false
+2,** Earth has been picked **,"*有玩家捡起了<土墙>神器, 效果: 放置墙体*",false
+3,** Wind has been picked **,"*有玩家捡起了<风>神器, 效果: 吹开僵尸*",false
+4,** Freeze has been picked **,"*有玩家捡起了<冰>神器, 效果: 冰冻僵尸*",false
+5,** No Bhop has been picked **,"*有玩家捡起了<禁连跳>神器, 效果: 阻止僵尸连跳*",false
+6,** No Bhop enabled. zombie cannot bhop for 5s **,"*<禁连跳>已开启, 僵尸5秒内无法连跳(强制降低跳跃力)*",false
+7,** WELCOME ON BHOP FACILITY **,*欢迎来到连跳实验场*,false
+8,** HERE YOU CAN LEARN HOW TO BHOP EASILY **,*你可以在这里尝试锻炼你的连跳技术*,false
+9,** GO GO GO! **,*GO GO GO!*,false
+10,** 30s **,*防守30秒*,false
+11,** 25s **,*防守25秒*,false
+12,** 20s **,*防守20秒*,false
+13,** 15s **,*防守15秒*,false
+14,**the next round will be the Level 1**,*关卡被调整为第一关*,false
+15,**the next round will be the Level 2**,*关卡被调整为第二关*,false
+16,**the next round will be the Level 3**,*关卡被调整为第三关*,false
+17,**the next round will be the Level 4**,*关卡被调整为第四关*,false
+18,**the next round will be the Level 5**,*关卡被调整为第五关*,false
+19,You won level 3!!,*第三关通关成功*,false
+20,You won level 5!!,*第五关通关成功*,false
+21,** YOU FAILED **,*通关失败*,false
+22,** RUN TIME!! **,*当前关卡: 第二关(比谁跑的最快!)*,false
+23,** EXTREM MOD!! **,*当前关卡: 第三关*,false
+24,** EXTREM RUN TIME!! **,*当前关卡: 第四关(比谁跑的最快!)*,false
+25,** IMPOSSIBLE MOD!! **,*当前关卡: 第五关*,false
+26,** Mass tp in 20s **,*20秒后传送所有落后的人到新区域*,false
+27,** WELL DONE **,*干得好*,false
+28,** Nuke in 10s **,*10秒后全图核爆*,false
+29,** Nuke in 3s **,*3秒后全图核爆*,false
+30,** mass tp in 20s **,*20秒后传送所有落后的人到新区域*,false
+31,** SOMEONE REACHED THE GOAL **,*有人到达了终点*,false
+32,** TELEPORTING EVERYONE IN 2 SECONDS **,*2秒后传送所有人*,false
+33,** KILL THEM! **,*干掉他们!*,false
+34,** READY TO DODGE THE LASERS!  **,*准备躲避刀波!*,false
+35,** USE BUTTON ON YOUR SIDE TO ATTACK A LASER! **,*使用你面前的按钮向对方发射刀波*,false
+36,** ALL ITEMS ARE NOW DISABLED! **,*全部神器已禁用*,false
+37,** HUMANS TEAM WINS: 60s**,*人类坚持60秒, 或杀死所有僵尸即可胜利*,false
+38,** HUMANS TEAM WINS: 70s**,*人类坚持70秒, 或杀死所有僵尸即可胜利*,false
+39,** HUMANS TEAM WINS: 10s**,*还有10秒*,false
+40,** HARDER LASERS INC! 5s **,*竖刀(列车刀)5秒后出现!*,false
+41,** BUTTONS UNLOCKED **,*按钮已开启*,false

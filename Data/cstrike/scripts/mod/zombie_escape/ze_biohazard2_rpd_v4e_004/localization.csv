@@ -1,0 +1,4 @@
+;//原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+Original,Translation,DontCount
+string,string,bool
+**Rocket launcher has been picked**,,false

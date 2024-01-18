@@ -1,0 +1,38 @@
+;//原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+Original,Translation,DontCount
+string,string,bool
+Sponge builder has been picked up.,"*有玩家捡起了<海绵>神器, 效果: 放置墙体*",false
+Mouse trap has been picked up.,"*有玩家捡起了<老鼠夹>神器, 效果: 秒杀碰到的僵尸*",false
+Map made by Puklica & Cuniczek,*地图制作: Puklica 与 Cuniczek*,false
+>>> |LEVEL 1| <<<,*当前关卡: 第一关*,false
+>>> |LEVEL 2| <<<,*当前关卡: 第二关*,false
+|Admin Room|***Admin has changed difficulty to LEVEL 1 ***,*关卡被调整为第一关*,false
+|Admin Room|***Admin has changed difficulty to LEVEL 2 ***,*关卡被调整为第二关*,false
+|Admin Room| *** ADMIN SLAYING EVERYONE ***,,false
+We'll have to roll down the toilet paper to safely climb down.,*需要有人用脚去转卫生纸!其他人防守僵尸!*,false
+Toilet paper has been rolled down. Fall back!,*卫生纸转好了!快顺着卫生纸往下爬!*,false
+Hold for 15 seconds.,"*防守15秒, 等待大门开启*",false
+Resist for 25 seconds.,*防守30秒*,false
+Resist for 20 seconds.,*防守25秒*,false
+Hold here until something happens!,"*防守30秒, 等待海绵掉落*",false
+The path is blocked. Fall back!,"*海绵挡住僵尸了, 快前往浴池!*",false
+The Rubber Duck has been defeated.,*BOSS<小鸭子>已被击败*,false
+You have won first level!,*第一关通关成功*,false
+Resist until the wall breaks.,*防守25秒*,false
+Fall back!,,false
+We have to clear the soap out of the way to be able to climb up.,"*需要老湿机推走肥皂, 我们才能撤退*",false
+The path has been cleared.,"*肥皂推走了, 顺着梳子往上爬!*",false
+We'll have to jump outside and walk across the mirror.,,false
+Hold on for a few seconds.,*防守25秒*,false
+We can use the hairdryer to reach the shelf!,"*再等10秒, 吹风机需要预热*",false
+Seems like there is no way to escape.,*该死!这是条死路!*,false
+That's it! Break the shelf support.,*快打碎支撑的玻璃!我们要从玻璃板离开!*,false
+We are trapped! Resist!,*防守28秒*,false
+Fall back we can walk across the door.,"*大门打开了, 从门框上撤退!*",false
+There is no way around.,"*又是死路...*",false
+We'll have to enter the boiler. Resist!,"*防守20秒, 我们在热水器上打个洞进去!*",false
+We can enter through that hole! Fall back!,*快跳进洞里!*,false
+The sponge has been defeated! Run!,"*BOSS<海绵方块>已被击败, 快离开这里*",false
+Final doors are going to close in 30 seconds! Resist!,*防守最后的30秒*,false
+You have won the map! Congratulations!,*第二关通关成功*,false
+Kill all zombies inside!,*杀死所有僵尸才可胜利*,false

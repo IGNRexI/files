@@ -1,0 +1,33 @@
+;//ID,原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+ID,Original,Translation,DontCount
+int,string,string,bool
+1,**A player has picked up HEAL materia**,"*有玩家捡起了<圣光>神器, 效果: 恢复血量并暂时免疫感染*",false
+2,**A player has picked up FIRE materia**,"*有玩家捡起了<火>神器, 效果: 点燃僵尸*",false
+3,**A player has picked up ELECTRO materia**,"*有玩家捡起了<电>神器, 效果: 减速僵尸并造成少量伤害*",false
+4,**A player has picked up BIO materia**,"*有玩家捡起了<浮毒>神器, 效果: 浮空僵尸并造成少量伤害*",false
+5,**A player has picked up GRAVITY materia**,"*有玩家捡起了<黑洞>神器, 效果: 吸住僵尸*",false
+6,**A player has picked up WIND materia**,"*有玩家捡起了<风>神器, 效果: 范围吹开僵尸*",false
+7,**A player has picked up EARTH materia**,"*有玩家捡起了<土墙>神器, 效果: 放置墙体*",false
+8,**A player has picked up SLEEP materia**,"*有玩家捡起了<催眠>神器, 效果: 昏迷僵尸*",false
+9,**A player has picked up ULTIMA materia**,"*有玩家捡起了<终极>神器, 效果: 蓄力后大范围秒杀僵尸*",false
+10,*** Cosmo Canyon made by Headshooter.SC & HaRyDe ***,*原地图制作: Headshooter.SC 与 HaRyDe*,false
+11,*** Training map by DarkRoad & Microsoft Edge ***,*训练地图制作: DarkRoad 与 Microsoft Edge*,false
+12,*** v2_2 version by dounai2333 ***,*训练地图改善: dounai2333*,true
+13,*** Enjoy the best music ***,*尽情享受由歌手Pendulum带来的音乐*,false
+14,*** You can go after 20 seconds ***,*20秒后即可前进*,false
+15,*** Normal ending ***,*正常结局(1蓝刀)*,true
+16,*** Sephiroth attack 3 lasers ***,*<萨菲罗斯>3蓝刀*,true
+17,*** Sephiroth attack 6 lasers ***,*<萨菲罗斯>6蓝刀(3刀变速刀)*,true
+18,*** Sephiroth attack 3 FAST lasers ***,*<萨菲罗斯>3蓝刀(快刀)*,true
+19,*** Sephiroth attack 6 FAST lasers ***,*<萨菲罗斯>6蓝刀(5刀变速刀)*,true
+20,*** Zombie Confuse is coming when you ESCAPING ***,*上飞船逃离时被僵尸神器<迷惑>影响*,false
+21,*** Zombie Confuse is coming when you FIGHT WITH Genesis ***,*与<杰内西斯>战斗时被僵尸神器<迷惑>影响*,false
+22,*** Genesis laser attack will have color changes ***,*<杰内西斯>刀波变色*,false
+23,*** No items in this round ***,*无神器*,false
+24,*** All items! Have fun using them! ***,*全神器! 玩得开心!*,false
+25,*** Yek time! Ultimate & Bio & Earth only! ***,"*yek时间! 神器只有<终极>, <浮毒>和<土墙>!*",false
+26,*** Easy mode! Lasers will not kill you immediately ***,*简单模式! 刀波不会立刻秒杀*,false
+27,*** 5 seconds ***,*还有5秒*,false
+28,**You have beaten Cosmo Canyon!! Congratulations !! **,*你已征服宇宙大峡谷! 恭喜!*,false
+29,** Nades do more damage. **,"*手雷可以造成更高的伤害*\n(杰内西斯: 那得意的态度, 又能持续多久呢?)",false
+30,**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**,*杀死所有僵尸才可胜利*,false

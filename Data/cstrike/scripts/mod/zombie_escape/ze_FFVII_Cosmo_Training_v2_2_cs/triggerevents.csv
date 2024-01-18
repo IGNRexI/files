@@ -1,0 +1,4 @@
+;//模型(*数字)或名称,触发时显示文字,离开触发区域时显示文字,只触发1次
+ModelOrTargetname,TriggerText,OnlyOnce
+string,string,bool
+Rage_End_Trigger,触发杰内西斯,true

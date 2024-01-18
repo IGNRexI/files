@@ -1,0 +1,302 @@
+;//原始文本,翻译文本(倒计时为翻译文本里的最后一个数字),即使文字里有数字也不进行倒计时
+Original,Translation,DontCount
+string,string,bool
+***LUFFAREN HAS ENTERED THE GAME***,*有玩家拿到了Luffaren专属水印匕首*,false
+***LUFFAREN HAS ENTERED THE ADMIN ROOM***,*持有<卤粉>匕首的人已进入调关房*,false
+***PLAYER PICKED UP ITEM - SPEEDER***,"*有玩家捡起了<加速>神器, 效果: 加速移动*",false
+***PLAYER PICKED UP ITEM - HERDER***,"*有玩家捡起了<推力>神器, 效果: 推开僵尸*",false
+***PLAYER PICKED UP ITEM - HEALING SHITBOX***,"*有玩家捡起了<奶>神器, 效果: 恢复血量(一次性)*",false
+***PLAYER PICKED UP ITEM - ROCKET CANNON***,"*有玩家捡起了<火箭>神器, 效果: 对NPC/僵尸范围伤害*",false
+***PLAYER PICKED UP ITEM - BEAM CANNON***,"*有玩家捡起了<光束>神器, 效果: 对NPC/僵尸直线伤害*",false
+***PLAYER PICKED UP ITEM - MINI CANNON***,"*有玩家捡起了<加特林>神器, 效果: 对NPC/僵尸高额直线伤害*",false
+^This fella is a silly-willy that everyone should point and laugh at!,"Luffaren: 有笨蛋, 我不说是谁",false
+^That was the stupidest thing i've ever heard as a map,Luffaren: 你们刚才说啥? 我和我的小伙伴们都笑了,false
+ALL HAIL LUFFAREN,"Luffaren: 你们打僵尸的停一停, 给我这种神鼓个掌先",false
+U WOT M8,"Luffaren: 说啥呢兄弟, 没听清, 罚你再说一遍",false
+Hey there everyone,Luffaren: 打个酱油先,false
+...,Luffaren: 额,false
+HEY EVERYONE! Kaemon is a wet biscuit!!!,"Luffaren: 我去, Kaemon下边好多水, 必须分享给你们",false
+Type 1 if you are jerking it right now,Luffaren: 一边打游戏一边打飞机的扣个1,true
+YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY,"Luffaren: 你们都活不久的, 你懂的...",false
+SEND ALL YOUR NUDES TO LUFFAREN!!!,Luffaren: 我要看色图! 赶紧发给我!!!,false
+^Wtf are you even talking about?,"Luffaren: 说啥呢哥们, 听不懂啊",false
+What,Luffaren: 搞毛,false
+HEY GUYS!,Luffaren: xdm我来打个酱油刷下存在感,false
+EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:,"Luffaren: 唉, K某人天天摸鱼不干事, 都摸几年了, 真得拷打一下吧",false
+Everyone should really consider sending Luffaren some nudes,"Luffaren: 在? 为什么不给我发色图? 给我发点色图, 速速",false
+Where da nudes for Luffaren b at?,"Luffaren: 色图呢, 怎么还见不到色图?!",false
+***STAGE SET - PROLOGUE***,*关卡被调整为第零关(序章)*,false
+***STAGE SET - ACT I***,*关卡被调整为第一关*,false
+***STAGE SET - ACT II***,*关卡被调整为第二关*,false
+***STAGE SET - ACT III***,*关卡被调整为第三关*,false
+***THE ETERNAL TRUTH HAS BEEN SUMMONED***,*已开启EX模式*,false
+***SOCRATES WILL BE WITH YOU FOREVER***,*苏格拉底与你永不分离..*,false
+***THE ETERNAL TRUTH HAS BEEN RETRACTED***,*已关闭EX模式*,false
+***SOCRATES IS ALWAYS WATCHING***,*苏格拉底永远注视着你..*,false
+***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***,*强制重开*,false
+***MERRY XMAS***,*圣诞老人很喜欢你*,false
+***...AND HAPPY SIMBA DAY***,,false
+***PROLOGUE COMPLETE***,*第零关(序章)通关成功*,false
+***ACT 1 COMPLETE***,*第一关通关成功*,false
+***ACT 2 COMPLETE***,*第二关通关成功*,false
+***FALL BACK***,*快撤退!*,false
+***ROCK WALL WILL BREAK IN 15 SECONDS***,*两个墙壁将于15秒后破碎*,false
+***ROCK WALL WILL BREAK IN 5 SECONDS***,*两个墙壁将于5秒后破碎*,false
+***SOMETHING IS COMING...***,*有危险正在靠近...*,false
+***RUN***,*跑起来!*,false
+***GET UP ON THAT ROCK***,*快登上那块巨石避难!*,false
+***MUFASA.. IS DEAD...***,*<木法沙>..已经离我们而去了*,false
+***SANTA CLAUS WILL PAY FOR HIS DEEDS***,"*是<圣诞老人>下的毒手, 必须让他血债血偿!*",false
+***YOU HAVE DEFILED MUFASAS CORPSE***,*<木法沙>的尸体被我们沾污了*,false
+***SKIPPING CUTSCENE***,*已跳过过场动画*,false
+***YOU SICK BASTARDS...***,*你们真是一群坏比!*,false
+***SNOW WALL WILL BREAK IN 10 SECONDS***,*大雪墙将于10秒后破碎*,false
+***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***,[主路] *大桥5秒后移动*,false
+***DRAWBRIDGE IS DRAWING***,,false
+***DRAWBRIDGE HAS BEEN DRAWED***,[主路] *大桥已搭建完毕*,false
+***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***,[恻路] *大门将于40秒后开启*,false
+***SEWER BLASTDOOR IS OPENING***,[恻路] *大门正在开启*,false
+***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***,[主路] *第2道大门将于20秒后开启*,false
+***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***,[主路] *第3道大门将于15秒后开启*,false
+***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***,*主路与恻路一起汇合才会开门*,false
+***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***,[左路] *大门将于25秒后开启*,false
+***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***,[左路] *大门已开启*,false
+***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***,[左路] *大门将于15秒后开启*,false
+***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***,[左路] *大门已开启*,false
+***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***,[右路] *大门将于15秒后开启*,false
+***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***,[右路] *大门已开启*,false
+***INCEST***,,false
+***WINCEST***,,false
+***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***,"*防守30秒, 等待大门开启*",false
+***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***STEELWORKS DOOR IS OPENING***,"*大门已开启, 撤退*",false
+***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***,*大门5秒后关闭*,false
+***STEELWORKS DOOR IS CLOSING***,,false
+***THE BEAVERS ARE COMING***,*<河狸>们正在一起进攻!*,false
+***THE BEAVERS ARE AGRESSIVE***,,false
+***THAT SEEMS TO BE THE LAST OF THEM***,"*看起来暂时安全了, 准备前进*",false
+***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***,"*防守40秒, 等待大门开启*",false
+***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***,*警告! 自毁程序已启动!*,false
+***LASER SHUTDOWN IN 20 SECONDS***,"*防守20秒, 等待激光关闭*",false
+***LASER SHUTDOWN IN 5 SECONDS***,"*防守5秒, 等待激光关闭*",false
+***ESCAPE THE BEAVER STEELWORKS FACILITY***,"*是时候离开这里了*",false
+***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***,"*防守20秒, 等待大门开启*",false
+***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***,"*防守20秒, 等待大门开启*",false
+***ELEVATOR OPENS IN 15 SECONDS***,"*防守15秒, 等待电梯门开启*",false
+***ELEVATOR DOOR IS OPEN***,*电梯门已开启*,false
+***ELEVATOR LEAVES IN 5 SECONDS***,*电梯5秒后移动*,false
+***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***,"*防守30秒, 等待电梯门关闭*",false
+***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***,"*防守5秒, 等待电梯门关闭*",false
+***FINAL ELEVATOR DOOR IS CLOSING***,,false
+***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***,[左路] *大脸将于30秒后爆炸*,false
+***LEFT LEFT SECOND FACE WALL HAS EXPLODED***,[左路] *大脸炸了*,false
+***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***,[右路] *大脸将于20秒后爆炸*,false
+***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***,[右路] *大脸炸了*,false
+***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***,[中路] *左边电梯10秒后移动*,false
+***LEFT PRIMAL ELEVATOR IS LEAVING***,[中路] *左边电梯已离开*,false
+***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***,[中路] *右边电梯10秒后移动*,false
+***RIGHT PRIMAL ELEVATOR IS LEAVING***,[中路] *右边电梯已离开*,false
+***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***,[中路] *大电梯将于30秒后移动*,false
+***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***,[中路] *大电梯将于5秒后移动*,false
+***SECONDARY PROTOCOL ELEVATOR IS LEAVING***,,false
+***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***,"*防守20秒, 等待大门开启*",false
+***SECRET SANTA CHAPEL DOOR IS OPENING***,"*大门已开启, 撤退*",false
+***THE PIZZA IS AGGRESSIVE***,*披萨太好吃辣!!!!*,false
+***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***,"大嘴巴: 我想舔点旁边的巧克力, 但我够不到, 你们能帮我吗?",false
+***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***,*喂<大嘴巴>7次巧克力即可继续前进*,true
+***GOOD LUCK***,*祝你好运*,false
+***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***,"大嘴巴: 谢谢你们! 巧克力真的很好吃, 让我来帮你们开路",false
+***YOU MAY NOW ENTER***,"*<大嘴巴>已收起他的舌头, 可以前进了*",false
+***HEAD TOWARDS SANTA'S FACTORY***,*即将前往<圣诞老人>的工厂*,false
+***BE PREPARED FOR ANYTHING***,*请小心行事...*,false
+***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***,*工厂大门将于20秒后开启*,false
+***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***,*工厂大门将于5秒后开启*,false
+***SANTA FACTORY DOOR IS OPENING***,,false
+***SMELL THE DANK MIXTAPE***,"*哦孩子, 来感受一下我的新曲!*",false
+***THE MIXTAPE IS OUT OF CONTROL***,*我真是high到不行啊!!*,false
+***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***,*什么? 你们竟然不喜欢我的新曲...*,false
+***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***,*你们这群无礼的小坏蛋...*,false
+***BE PREPARED FOR SOMETHING SPECIAL...***,*看来需要惩罚一下你们!*,false
+***...SOMETHING VERY SPECIAL...***,*有什么东西被唤醒了..*,false
+***MAJOR FACE WALL EXPLODES IN 15 SECONDS***,[恻路] *大脸将于15秒后爆炸*,false
+***MAJOR FACE WALL IS ABOUT TO EXPLODE***,[恻路] *大脸将于5秒后爆炸*,false
+***MAJOR FACE WALL WENT BOOM***,[恻路] *大脸炸了*,false
+***HITLERS TEETH ARE NOW BROKEN***,"[恻路] *牙齿已碎, 撤退*",false
+***DEMOCRACY HEREBY WINS THE SUPERBOWL***,,false
+***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***,[主路] *电梯将于20秒后移动*,false
+***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***,[主路] *电梯将于5秒后移动*,false
+***MAIN ELEVATOR IS LEAVING***,,false
+***NAZI NIPPLE***,[主路] *按钮被按下了*,false
+***BLACK HOLE***,[恻路] *按钮被按下了*,false
+***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***,*主路和恻路均已按下按钮*,false
+***GLASS WILL BREAK IN 5 SECONDS***,*玻璃5秒后破碎*,false
+***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***,"墨西哥大脚妹: 我可以带你们经过那片岩浆地区, 才40块钱哦",true
+***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***,"*扒了几个富哥的裤衩子, 把钱交给了<墨西哥大脚妹>*",false
+***20 SECONDS UNTIL DEPARTURE***,"墨西哥大脚妹: OK! 18秒后我们就出发!",false
+***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***,"墨西哥大脚妹: 如果可以的话, 我希望你们可以叫我——哔——",false
+***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***,墨西哥大脚妹: 不然我就举报你的QQ号!,false
+***5 SECONDS UNTIL DEPARTURE***,,false
+***THE BURRITO SHITTER IS DEPARTING***,*<***>不喜欢看到有人将头、手、脚伸到外面!*,false
+***NEXT STOP - ILLEGALITY***,,false
+***PUNISHING EDGERS WITH BURRITO LOVE***,,false
+***MAGIC ZOMBIE PUSH IS DISABLED***,***: 这群不付钱的混蛋想上车! 把他们踹下去!,false
+***ZOMBIES CAN NOW GET YOU FROM THE SIDES***,*僵尸现已可从两边进攻*,false
+***FACTORY DOOR OPENS IN 10 SECONDS***,"*防守10秒, 等待大门开启*",false
+***FACTORY DOOR OPENS IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***FACTORY DOOR OPENS IN 4 SECONDS***,,false
+***FACTORY DOOR OPENS IN 3 SECONDS***,,false
+***FACTORY DOOR OPENS IN 2 SECONDS***,,false
+***FACTORY DOOR OPENS IN 1 SECOND***,*等等..旁边的墙不对劲*,false
+***OPENING DOORS IN 10 SECONDS***,"*防守10秒, 等待大门开启*",false
+***OPENING DOORS IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***OPENING DOORS***,,false
+***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***,"*找到<巴比伦宝宝>, 按下它旁边的按钮*",false
+***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***,*按钮被按下了*,false
+***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***,*<巴比伦宝宝>很喜欢你*,false
+***SEXY VENT GATE IS OPENING IN 20 SECONDS***,*通风管道大门将于20秒后开启*,false
+***SEXY VENT GATE IS OPENING IN 5 SECONDS***,*通风管道大门将于5秒后开启*,false
+***SEXY VENT GATE IS OPENING***,,false
+***OPENING BASE SOCRATES ELEVATOR GATE***,"*防守15秒, 等待电梯门开启*",false
+***TIP - YOU CAN BREAK THE RUSTY METAL***,,false
+***FIND THE BUTTONS***,*需要按下3个按钮才可前进*,true
+***BUTTON 1 PRESSED***,*1号按钮被按下了*,true
+***BUTTON 2 PRESSED***,*2号按钮被按下了*,true
+***BUTTON 3 PRESSED***,*3号按钮被按下了*,true
+***YOU CAN NOW ADVANCE***,*可以撤退了!*,false
+***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***,"*防守10秒, 等待大门开启*",false
+***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***OPENING UPPER CHAPEL DOOR***,,false
+***SEXY REINDEER IS OPENING IN 15 SECONDS***,*挡板将于15秒后上升*,false
+***SEXY REINDEER IS OPENING IN 5 SECONDS***,*挡板将于5秒后上升*,false
+***SEXY REINDEER IS SPREADING***,,false
+***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***,*大门将于15秒后开启*,false
+***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***,*大门将于5秒后开启*,false
+***BRIDGE EXIT GATE IS OPENING***,,false
+***HEAD TOWARD SANTAS LAIR***,*前往<圣诞老人>的大本营!*,false
+***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***,*在桥上前进时将获得加速*,false
+***GET INSIDE SANTAS LAIR***,*快进入门里面*,false
+***SANTA'S LAIR GATE IS CLOSING IN 15 SECONDS***,*大门将于15秒后关闭*,false
+***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***,*大门将于10秒后关闭*,false
+***SANTA'S LAIR GATE IS CLOSING***,*大门正在关闭*,false
+***SIMBA IS PRAYING FOR THE TRUTH***,[狮子路] *<辛巴>正在默默祈祷...*,false
+***ZAZU IS PRAYING FOR THE TRUTH***,[鹦鹉路] *<沙祖>正在默默祈祷...*,false
+***MUFASA IS PRAYING FOR THE TRUTH***,*<木法沙>正在默默祈祷...*,false
+***THE TRUE PATH IS CLEAR NOW***,*你感受到了..真正的目的地...*,false
+***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***,*<圣诞老人>的杀意变得无比强烈...*,false
+***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***,*那位大人在注视着我们...*,false
+***YOU DO NOT WANT TO DO THIS ANYMORE...***,*你想....*,false
+***YOU WANT TO STOP...***,*你想阻止真正的它....*,false
+***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***,[鹦鹉路] *电梯将于20秒后移动*,false
+***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***,[鹦鹉路] *电梯将于5秒后移动*,false
+***LOWER ELEVATOR IS LEAVING***,,false
+***LOWER GATE IS OPENING IN 35 SECONDS***,[鹦鹉路] *大门将于35秒后开启*,false
+***LOWER GATE IS OPENING IN 5 SECONDS***,[鹦鹉路] *大门将于5秒后开启*,false
+***LOWER GATE IS OPENING***,,false
+***TRAM 1 IS LEAVING IN 20 SECONDS***,[板子路] *1号电梯将于20秒后移动*,false
+***TRAM 1 IS LEAVING***,[板子路] *1号电梯已开始上升*,true
+***TRAM 2 IS LEAVING IN 20 SECONDS***,[板子路] *2号电梯将于20秒后移动*,false
+***TRAM 2 IS LEAVING***,[板子路] *2号电梯已开始上升*,true
+***INNER UPPER GATE IS OPENING IN 40 SECONDS***,[板子路] *大门将于40秒后开启*,false
+***INNER UPPER GATE IS OPENING IN 5 SECONDS***,[板子路] *大门将于5秒后开启*,false
+***INNER UPPER GATE IS OPENING***,,false
+***OUTER GATE IS OPENING IN 50 SECONDS***,[狮子路] *大门将于50秒后开启*,false
+***OUTER GATE IS OPENING IN 10 SECONDS***,[狮子路] *大门将于10秒后开启*,false
+***OUTER GATE IS OPENING***,[狮子路] *大门已开启*,false
+***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***,[狮子路] *电梯将于40秒后移动*,false
+***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***,[狮子路] *电梯将于5秒后移动*,false
+***OUTER ELEVATOR IS LEAVING***,,false
+***CENTER GATE IS OPENING IN 30 SECONDS***,[中间路] *大门将于30秒后开启*,false
+***CENTER GATE IS OPENING IN 5 SECONDS***,[中间路] *大门将于5秒后开启*,false
+***CENTER GATE IS OPENING***,,false
+***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***,[中间路] *电梯井门将于30秒后开启*,false
+***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***,[中间路] *电梯井门将于5秒后开启*,false
+***ELEVATOR SHAFT GATE IS OPENING***,,false
+***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***,"*防守30秒, 等待大门开启*",false
+***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***OUTER WALL ENTRANCE IS OPENING***,,false
+***UPPER GATE IS OPENING IN 30 SECONDS***,*高门将于30秒后开启*,false
+***LOWER GATE IS OPENING IN 30 SECONDS***,*低门将于30秒后开启*,false
+***UPPER GATE IS OPENING***,*高门已开启*,false
+***LOWER GATE IS OPENING***,*低门已开启*,false
+***OUTER GATE WILL OPEN IN 20 SECONDS***,"*防守20秒, 等待大门开启*",false
+***OUTER GATE WILL OPEN IN 5 SECONDS***,"*防守5秒, 等待大门开启*",false
+***MOVE IT***,*GOGOGO*,false
+***SANTA'S DOOR IS OPENING IN 20 SECONDS***,"*防守20秒, 等待大门开启*",false
+***SANTA'S DOOR IS OPENING***,*大门已开启*,false
+***SANTA'S DOOR IS CLOSING IN 4 SECONDS***,*大门4秒后关闭*,false
+***SANTA'S DOOR IS CLOSING IN 3 SECONDS***,,false
+***SANTA'S DOOR IS CLOSING IN 2 SECONDS***,,false
+***SANTA'S DOOR IS CLOSING IN 1 SECONDS***,,false
+***SANTA'S DOOR IS CLOSING***,*大门正在关闭*,false
+*** - SANTA - ***,*BOSS战: <圣诞老人>*,false
+***YOU HAVE DEFEATED SANTA***,*你击败了<圣诞老人>!*,false
+***FOR NOW... IT SEEMS***,*但是这一切似乎并未结束..*,false
+***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***,*<木法沙>的安息处大门将于20秒后开启*,false
+***UPPER TOWER DOOR IS OPENING***,*<木法沙>的安息处大门已开启*,false
+***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***,"*防守50秒, 等待电梯移动*",false
+***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***,"*防守20秒, 等待电梯移动*",false
+***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***,"*防守10秒, 等待电梯移动*",false
+***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***,"*防守5秒, 等待电梯移动*",false
+***THE FINAL ELEVATOR IS LEAVING***,"*电梯已上升, 准备再次面对<圣诞老人>*",false
+***FINAL GATE IS CLOSING IN 15 SECONDS***,*大门将于15秒后关闭*,false
+***FINAL GATE IS CLOSING IN 5 SECONDS***,*大门将于5秒后关闭*,false
+***FINAL GATE IS CLOSING***,*大门正在关闭*,false
+*** - BIG SANTA - ***,*BOSS战: 巨大化的<圣诞老人>*,false
+***YOU HAVE DEFEATED SANTA CLAUS***,*你击败了巨大化的<圣诞老人>!*,false
+***MUFASAS DEATH HAS BEEN AVENGED***,*我们成功为<木法沙>报仇了!*,false
+***PEACE WILL NOW SPREAD THROUGH THE LANDS***,*这片土地上的邪恶将不复存在*,false
+***THANK YOU FOR PLAYING***,*感谢你的游玩*,false
+***MAP MADE BY - LUFFAREN***,*地图制作: Luffaren*,false
+***THIS IS WRONG...***,*这里是...*,false
+***THIS.. IS THE TRUTH***,*这里是虚幻的真实世界...*,false
+***SOCRATES IS JUDGING YOU***,*它..感知到了你*,false
+***SOCRATES HAS TO CLEANSE YOU***,*它..认为你来意不善*,false
+***SOCRATES IMAGINES***,*它..正在想象*,false
+***SOCRATES DESPISES YOU***,*它..鄙视你*,false
+***SOCRATES PONDERS***,*它..正在思考*,false
+***SOCRATES CRIES***,*它..落泪了*,false
+***SOCRATES ERECTS***,*它..正在建造*,false
+***SOCRATES IS BLOSSOMING***,*它..正在成长*,false
+***THE TRUE TRAM IS LEAVING IN 30 SECONDS***,*电车将于30秒后移动*,false
+***THE TRUE TRAM IS LEAVING IN 5 SECONDS***,*电车将于5秒后移动*,false
+***THE TRUE TRAM IS LEAVING***,,false
+***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***,*5秒后僵尸传送*,false
+***4***,*4*,false
+***3***,*3*,false
+***2***,*2*,false
+***UNO***,*UNO*,false
+***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***,*Luffaren忘了给这片区域制作更多内容了*,false
+***DON'T TELL HIM I SAID THAT***,*嘘~ 别告诉他这件事*,false
+***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***,"*防守30秒, 等待电梯移动*",false
+***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***,"*防守5秒, 等待电梯移动*",false
+***THE TRUE ELEVATOR IS LEAVING***,,false
+***SOCRATES WISHES SILENTLY***,*它..正在默默祈祷*,false
+***SOCRATES FEELS YOU***,*它..正在窥视你的内心*,false
+***SOCRATES PLAYS NINTENDO 64***,*它..看到你玩N64*,true
+***SOCRATES REGRETS YOUR DEEDS***,*它..再度鄙视你*,false
+***SOCRATES CARES FOR NO MAN***,*它..从不在乎任何人*,false
+***SOCRATES IS***,*它..是..*,false
+***SOCRATES FEEDS***,*它..饿了*,false
+***SOCRATES NEEDS BENDER***,*它..逐渐扭曲*,false
+***SOCRATES IS ALL***,*它..即是一切*,false
+***SOCRATES IS NOTHING***,*它..即是虚无*,false
+***SOCRATES IS NOTHING AT ALL***,*它..什么也不是*,false
+***SOCRATES DOES NOT EXIST***,*它..从未存在*,false
+***SOCRATES IS AWAKENED***,*它..正在苏醒*,false
+***SOCRATES CANNOT KEEP***,*它..无法坚持了*,false
+***SOCRATES RUMBLES YOUR WILL***,*它..正在改写意识*,false
+***SOCRATES SELLS GASOLINE***,*它..改写一切*,false
+***SOCRATES WILL ARRIVE***,*它..正在接近*,false
+***SOCRATES WILL CLEANSE***,*它..正在武装*,false
+***SOCRATES WILL DESTROY***,*它..会毁灭一切*,false
+***SOCRATES IS NEAR***,*它..就是<苏格拉底>*,false
+***SOCRATES WELCOMES YOU***,*它..欢迎你的到来*,false
+***SOCRATES IS SANTA***,*它..是<圣诞老人>的深层自我*,false
+*** - TRUE SANTA - ***,*BOSS战: <苏格拉底>*,false
+***SPEEDER ITEMS ACTIVATED***,*神器<加速>已解锁!*,false
+***YOU HAVE DONE IT!***,*你做到了!*,false
+***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***,*你击败了真正的敌人<苏格拉底>!*,false
+***YOU WILL BE REMEMBERED AS CHAMPIONS***,*这至高无上的荣誉非你莫属*,false
+***THE END***,*全图通关*,false
+***THE ETERNAL TRUTH LOOMS***,"*EX模式: 真实与虚幻的交错*",false

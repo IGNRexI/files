@@ -1,0 +1,5 @@
+;//神器归属队伍(2为僵尸神器,3为人类神器),神器中文名,武器targetname,按钮targetname(如没有请留空),神器的冷却时间
+Team,Name,WeaponName,ButtonName,Cooldown
+int,string,string,string,int
+3,护盾,usp_shield,item_shield_trigger,60
+3,风,ItemPushgun,Wind_button,41

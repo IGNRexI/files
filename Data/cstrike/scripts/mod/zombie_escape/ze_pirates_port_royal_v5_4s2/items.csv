@@ -1,0 +1,11 @@
+;//神器归属队伍(2为僵尸神器,3为人类神器),神器中文名,武器targetname,按钮targetname(如没有请留空),神器的冷却时间
+Team,Name,WeaponName,ButtonName,Cooldown
+int,string,string,string,int
+3,任务勋章,meda2,,
+3,泡泡,buble_zbran,,
+3,奶,heal_zbran,,
+3,剑阵,mec_zbran,,
+3,终极,medailon_zbran,,
+3,炸药桶,sud_vybuchujici,,
+3,墙,zataras_zbran,,
+2,巴博萨,zombie_barbossat_knife,,

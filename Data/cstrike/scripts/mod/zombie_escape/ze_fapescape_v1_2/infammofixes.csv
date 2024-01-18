@@ -1,0 +1,4 @@
+;//ID,模型(*数字)或名称
+ID,ModelOrTargetname
+int,string
+1,ammo_multple

@@ -1,0 +1,7 @@
+;//模型(*数字)或名称,触发时显示文字,离开触发区域时显示文字,是否只提示1次触发
+ModelOrTargetname,TriggerText,OnlyOnce
+string,string,bool
+comienza_huida,当前第一名,true
+sephi2,触发刀波,true
+*186,率先离开出生点区域,true
+*128,触发了7秒门,true
