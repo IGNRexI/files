@@ -1,7 +1,0 @@
-"ze_Bathroom_v2_5s"
-{
-	"material"	"overviews/ze_Bathroom_v2_5s"	// texture file
-	"pos_x"		"-2987"	// upper left world coordinate
-	"pos_y"		"13815"
-	"scale"		"15" 
-}

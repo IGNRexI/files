@@ -1,9 +1,0 @@
-"ze_predator_ultimate_v3"
-{
-"material" "overviews/ze_predator_ultimate_v3"
-"pos_x" "-15233"
-"pos_y" "16755"
-"scale" "25.0"
-"rotate" "0"
-"zoom" "1.3"
-}

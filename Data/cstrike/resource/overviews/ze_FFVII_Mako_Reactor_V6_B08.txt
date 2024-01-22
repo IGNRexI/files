@@ -1,9 +1,0 @@
-"ze_FFVII_Mako_Reactor_V6_B08"
-{
-	"material"	"overviews/ze_FFVII_Mako_Reactor_V6_B08"
-	"pos_x"		"-8500"
-	"pos_y"		"5880"
-	"scale"		"15"
-	"rotate" 	"0"
-	"zoom"		"2"
-}

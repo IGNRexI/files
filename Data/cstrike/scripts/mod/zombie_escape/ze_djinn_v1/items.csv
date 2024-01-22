@@ -1,8 +1,0 @@
-;//神器归属队伍(2为僵尸神器,3为人类神器),神器中文名,武器targetname,按钮targetname(如没有请留空),神器的冷却时间
-Team,Name,WeaponName,ButtonName,Cooldown
-int,string,string,string,int
-3,奶,human_heal_elite,human_heal_button,70
-3,流沙,human_sand_elite,human_sand_button,70
-3,弹药,human_ammo_elite,human_ammo_button,60
-3,塔,human_pyramid_elite,human_pyramid_button,70
-3,风,human_tornado_elite,human_tornado_button,70

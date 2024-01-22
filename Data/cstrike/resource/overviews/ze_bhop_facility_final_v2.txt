@@ -1,8 +1,0 @@
-"ze_bhop_facility_final_v2"
-{
-	"pos_x"		"-840"
-	"pos_y"		"6830"
-	"scale"		"7.5"
-	"rotate"	"0"
-	"zoom"		"1.3"
-}

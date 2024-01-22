@@ -1,8 +1,0 @@
-"ze_FFXII_Feywood_b6_1k"
-{
-	"pos_x"		"-17185"
-	"pos_y"		"16924"
-	"scale"		"32.0"
-	"rotate"	"0"
-	"zoom"		"1.3"
-}

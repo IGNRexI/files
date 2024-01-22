@@ -1,8 +1,0 @@
-"ze_FFVII_Cosmo_Training_v2_2_cso2"
-{
-	"pos_x"		"-14406"
-	"pos_y"		"8716"
-	"scale"		"3.5"
-	"rotate"	"0"
-	"zoom"		"1.3"
-}

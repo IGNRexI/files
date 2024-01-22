@@ -1,9 +1,0 @@
-// Overview: scale 4.50, pos_x 629, pos_y 2007
-
-"zm_nide_jail_boat"
-{
-	"material" "overviews/zm_nide_jail_boat"
-	"pos_x"	"629"
-	"pos_y"	"2007"
-	"scale"	"4.50"
-}

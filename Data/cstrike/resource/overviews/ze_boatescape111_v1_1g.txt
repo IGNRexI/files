@@ -1,6 +1,0 @@
-"ze_boatescape111_v1_1g"
-{
-	"pos_x"	"-16495"
-	"pos_y"	"2112"
-	"scale"	"17.0"
-}

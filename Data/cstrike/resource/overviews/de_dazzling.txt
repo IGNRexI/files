@@ -1,9 +1,0 @@
-// HLTV overview description file for de_dazzling.bsp
-"de_dazzling"
-{
-	"material"	"overviews/de_dazzling"	// texture file
-	"pos_x"		"-2373"	// upper left world coordinate
-	"pos_y"		"4131"
-	"scale"		"8" 
-
-

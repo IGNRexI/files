@@ -1,7 +1,0 @@
-"ze_s_a_m_v1_3_css"
-{
- "material" "overviews/ze_s_a_m_v1_3_css"
- "pos_x"  "-18652"
- "pos_y"  "16185"
- "scale"  "32.00"
-}

@@ -1,4 +1,0 @@
-// 몬스터ID,타입,유니크이름,모델,AI클래스명,팀,체력,엔트리반격범위,엄폐찾는범위,엄폐포기범위,최소공격거리,최대공격거리,근접인식범위,근점공격범위,원거리데미지,근거리데미지,수류탄확률,대쉬,달리기,걷기,점프력,명중률,경험치,돈,아이템,아이템 드롭률
-MonsterID,MonsterBaseType,MonsterName,ModelName,ClassName,Team,Health,EntryCounterRad,CoveringRadius,CoveringOffDist,AtkRangeMin,AtkRangeMax,MeleeRange,MeleeRadius,RangeDamage,MeleeDamage,GrenThresh,DashSpeed,RunSpeed,WalkSpeed,Jump,Accuracy,Exp,Money,ItemDropInfo,ItemDropPer
-int,string,string,string,string,int,int,int,int,int,int,int,int,int,int,int,float,int,int,int,int,float,int,int,int,float
-1,normal,zombie_wall,models/npc/npc_h_zombie_wall/zombie_wall_01.mdl,cso2mob_zombie_wall,4,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
